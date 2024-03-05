@@ -8,3 +8,7 @@ Name: Tao Paint System
 Symbol: tTAO
 RPC: https://testnetrpc.tps.pics/
 Explorer: https://explorer.tps.pics/
+
+
+Mint Page: https://tps.pics/mint
+Faucet Page: https://tps.pics/faucet
